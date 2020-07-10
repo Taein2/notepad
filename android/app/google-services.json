@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787299554160",
+    "firebase_url": "https://notepad-354a6.firebaseio.com",
+    "project_id": "notepad-354a6",
+    "storage_bucket": "notepad-354a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787299554160:android:c3b7777f274552e37eb5b5",
+        "android_client_info": {
+          "package_name": "taein.notepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787299554160-lssn65gd0rtvqqqod1vbt0629ika1vou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqdZnrRVJXz5owpq8NCskX2IpGu6cJj6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787299554160-lssn65gd0rtvqqqod1vbt0629ika1vou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
